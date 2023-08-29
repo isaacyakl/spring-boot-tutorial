@@ -1,0 +1,23 @@
+_id: req_1b6a962677c54fd698a4fccf9db7f15a
+type: Request
+parentId: wrk_6e4a8f07fc004859b6dfa4a95ecabe22
+modified: 1693330610496
+created: 1692900627990
+url: http://localhost:8082/departments/2
+name: Get Department
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+authentication: {}
+metaSortKey: -1692898696407.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
